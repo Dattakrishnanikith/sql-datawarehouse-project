@@ -67,7 +67,43 @@ Integration: Merging source data into a single unified model
 
 Scope: Latest data only; no historical tracking
 
+
+
+📘 Learning Outcomes
+Hands-on experience with a full ETL lifecycle
+
+Practical use of SQL Server for warehousing
+
+Building star schema for BI
+
+Applying transformation logic (CASE, COALESCE, joins, data typing)
+
+Using Medallion Architecture in real-world scenarios
+
 Documentation: Clear metadata, naming conventions, and schema references
 
+🛡️ License
+This project is licensed under the MIT License.
+You are free to use, modify, and share this project with proper attribution.
+
+🌟 About Me
+Hi there! I'm Datta Krishna Nikith Chokkakula, 
+
+🎓 I recently completed my Master of Science in Business Analytics (STEM-designated, GPA 3.9/4.0) from Texas A&M University–Commerce in June 2025. I’m currently seeking full-time opportunities as a Data Analyst, Data Engineer, or Business Intelligence Developer where I can apply my strong technical and analytical skills to solve real-world problems.
+
+🛠️ Technical Skills:
+
+Languages & Tools: SQL, Python, Power BI, Tableau
+
+Cloud & Warehousing: AWS (Redshift, S3, EC2), Snowflake, Redshift Spectrum
+
+ETL & Data Modeling: Medallion Architecture, Star Schema, performance-optimized pipelines
+
+Focus Areas: Building scalable data solutions, transforming raw data into actionable insights, ensuring data quality and governance
+
+📧 Let’s connect and collaborate!
+Email: Dattakrishna.sd@gmail.com
+Phone: +1 (940) 344-4292
+LinkedIn: https://www.linkedin.com/in/datta-krishna-nikith-chokkakula-186b66201/
 
 <img width="1060" height="1156" alt="DATA ARCHITECTURE" src="https://github.com/user-attachments/assets/7cd8e87c-bd64-4838-b029-bddeba6b0cc5" />
