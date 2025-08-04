@@ -1,6 +1,10 @@
 Data Warehouse and Analytics Project
+
 Welcome to my Data Warehouse and Analytics Portfolio Project! 🚀
-This end-to-end solution showcases my expertise in designing modern data architectures, building ETL pipelines, performing data modeling, and delivering actionable analytics using SQL Server and industry best practices.
+
+This end-to-end solution showcases my expertise in designing modern data architectures, building robust ETL pipelines, and performing data modeling using SQL Server, all aligned with industry best practices.
+
+🔧 Note: This phase of the project focuses on building the Data Warehouse (Bronze, Silver, Gold layers). Analytics and reporting will be implemented in future phases.
 
 🏗️ Data Architecture
 This project follows the Medallion Architecture consisting of three layers:
