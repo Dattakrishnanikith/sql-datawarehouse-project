@@ -91,9 +91,11 @@ This project is licensed under the MIT License.
 You are free to use, modify, and share this project with proper attribution.
 
 🌟 About Me
-Hi there! I'm Datta Krishna Nikith Chokkakula, 
+Hi there! I'm Datta Krishna Nikith Chokkakula, a passionate Business Intelligence Engineer with a strong foundation in data architecture and analytics.
 
-🎓 I recently completed my Master of Science in Business Analytics (STEM-designated, GPA 3.9/4.0) from Texas A&M University–Commerce in June 2025. I’m currently seeking full-time opportunities as a Data Analyst, Data Engineer, or Business Intelligence Developer where I can apply my strong technical and analytical skills to solve real-world problems.
+🎓 I recently completed my Master of Science in Business Analytics (STEM-designated, GPA 3.9/4.0) from Texas A&M University–Commerce in June 2025 and bring over 5 years of experience building end-to-end BI solutions, ETL pipelines, and dashboards in fast-paced, cross-functional environments. 
+
+I’m currently seeking full-time opportunities as a Data Analyst, Data Engineer, or Business Intelligence Developer where I can apply my strong technical and analytical skills to solve real-world problems.
 
 🛠️ Technical Skills:
 
