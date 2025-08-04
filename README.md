@@ -117,4 +117,4 @@ LinkedIn: https://www.linkedin.com/in/datta-krishna-nikith-chokkakula-186b66201/
 
 
 
-<img width="1060" height="1156" alt="DATA ARCHITECTURE" src="https://github.com/user-attachments/assets/7cd8e87c-bd64-4838-b029-bddeba6b0cc5" />
+
